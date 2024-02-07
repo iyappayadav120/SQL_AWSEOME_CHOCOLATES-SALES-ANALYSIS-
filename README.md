@@ -1,4 +1,4 @@
-# SQL_AWSEOME_CHOCOLATES-SALES-ANALYSIS-
+# SQL_AWESOME_CHOCOLATES-SALES-ANALYSIS-
 
 Developed an extensive sales analysis project aimed at extracting actionable insights from customer sales databases. Leveraged SQL queries to perform data extraction, transformation, and analysis across multiple related tables, thereby enabling comprehensive reporting and decision-making processes
 Key Responsibilities and Achievements:
